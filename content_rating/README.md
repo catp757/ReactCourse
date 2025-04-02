@@ -1,1 +1,1 @@
-# coding-project-template
+# content rating React app
