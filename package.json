@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start:content_rating": "cd content_rating && yarn start",
+    "start:event_planner": "cd event_planner && yarn start",
+    "start:learning_react": "cd learning_react && yarn start",
+	  "start:todo_list": "cd todo_list && yarn start"
+  }
+}
